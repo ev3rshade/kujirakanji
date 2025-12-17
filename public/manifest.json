@@ -1,0 +1,7 @@
+{
+  "name": "Kanji Practice",
+  "short_name": "Kanji",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": []
+}
